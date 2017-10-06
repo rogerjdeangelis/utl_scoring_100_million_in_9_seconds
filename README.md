@@ -1,5 +1,5 @@
 # utl_scoring_100_million_in_9_seconds
-Scoring 100 million records in 9 seconds not 2-3 hrs
+Data analytics. Macine learning. Scoring 100 million records in 9 seconds not 2-3 hrs
 
     ```  Scoring 100 million records in 8.5 seconds not 2-3 hours  ```
     ```    ```
